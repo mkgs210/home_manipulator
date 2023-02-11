@@ -60,5 +60,5 @@
 
 
 ## Внешний вид
-С фотографиями проекта можно изнакомиться по [ссылке]([https://drive.google.com/drive/folders/1YZTG0Izhqas_j91vWX19adGNBPf3R61k?usp=sharing](https://disk.yandex.ru/d/i3SKoPf5IaXEWA))
+С фотографиями проекта можно изнакомиться по [ссылке](https://disk.yandex.ru/d/i3SKoPf5IaXEWA)
 
