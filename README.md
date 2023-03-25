@@ -1,7 +1,7 @@
 # Home manipulator
 
 
-## $${ПРОЕКТ \space\space В \space\space АКТИВНОЙ \space\space РАЗРАБОТКЕ}$$
+## $${проект \space\space в \space\space заморозке \space\space}$$
 ## Ход разработки
 - [X] Программная разработка
   - [X] Управление через инфракрасный пульт
